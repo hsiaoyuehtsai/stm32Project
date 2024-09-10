@@ -1,0 +1,17 @@
+17:39:27 **** Incremental Build of configuration Debug for project proj10_tim_external_input ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/tim.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/tim.d" -MT"Core/Src/tim.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/tim.o"
+arm-none-eabi-gcc -o "proj10_tim_external_input.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\ST\workspace_1.16.0\proj10_tim_external_input\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="proj10_tim_external_input.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: proj10_tim_external_input.elf
+ 
+arm-none-eabi-size  proj10_tim_external_input.elf 
+arm-none-eabi-objdump -h -S proj10_tim_external_input.elf  > "proj10_tim_external_input.list"
+   text	   data	    bss	    dec	    hex	filename
+  14816	     96	   3216	  18128	   46d0	proj10_tim_external_input.elf
+Finished building: default.size.stdout
+ 
+Finished building: proj10_tim_external_input.list
+ 
+
+17:39:28 Build Finished. 0 errors, 0 warnings. (took 1s.153ms)
+

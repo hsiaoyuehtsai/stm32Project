@@ -1,0 +1,43 @@
+2024-08-15 00:02:37,116 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 541133640 Bytes (738197504)
+2024-08-15 00:02:37,198 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 231158384 Bytes (738197504)
+2024-08-15 00:02:37,892 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 280129744 Bytes (738197504)
+2024-08-15 00:02:38,206 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-08-15 00:02:38,206 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-08-15 00:02:38,206 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-08-15 00:02:38,207 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-08-15 00:02:38,207 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-08-15 00:02:38,208 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-08-15 00:02:38,315 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\license.tmp_save
+2024-08-15 00:02:38,422 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\license.tmp
+2024-08-15 00:02:38,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\gpio.tmp_save
+2024-08-15 00:02:38,607 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\gpio.tmp
+2024-08-15 00:02:38,697 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Src\stm32f1xx_it.c_save
+2024-08-15 00:02:38,908 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Src\stm32f1xx_it.c
+2024-08-15 00:02:38,927 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\stm32f1xx_it.h_save
+2024-08-15 00:02:39,010 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\stm32f1xx_it.h
+2024-08-15 00:02:39,038 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Src\stm32f1xx_hal_msp.c_save
+2024-08-15 00:02:39,187 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Src\stm32f1xx_hal_msp.c
+2024-08-15 00:02:39,197 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\system.tmp_save
+2024-08-15 00:02:39,263 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\MXTmpFiles\system.tmp
+2024-08-15 00:02:39,285 [INFO] CodeEngine:311 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-08-15 00:02:39,376 [INFO] CodeEngine:335 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\stm32f1xx_hal_conf.h
+2024-08-15 00:02:39,428 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\main.h_save
+2024-08-15 00:02:39,543 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Inc\main.h
+2024-08-15 00:02:39,563 [INFO] CodeEngine:255 - oldGeneratedFile, C:\ST\workspace_1.16.0\proj4_serial\Core\Src\main.c_save
+2024-08-15 00:02:39,673 [INFO] CodeEngine:279 - Generated code: C:\ST\workspace_1.16.0\proj4_serial\Core\Src\main.c
+2024-08-15 00:02:39,919 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 110mS.
+2024-08-15 00:02:39,922 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-08-15 00:02:40,004 [INFO] ConfigFileManager:1531 - The Die is : DIE410
+2024-08-15 00:02:41,271 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1348mS.
+2024-08-15 00:02:41,271 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-08-15 00:02:41,273 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-08-15 00:21:33,575 [INFO] MainUpdater:2873 - connection check result : 10
+2024-08-15 00:21:33,668 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-08-15 00:21:33,668 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-08-15 00:21:33,669 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-08-15 00:21:34,540 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-08-15 00:21:34,540 [INFO] DetailPanel:341 - Set advertising image to C:/Users/admin/STM32Cube/Repository/\en.prom-stm32h7rs-mcu-finder.jpg
+2024-08-15 00:21:39,122 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-08-15 00:21:39,437 [INFO] ApiDb:448 - Save user favorites file C:\Users\admin/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2024-08-15 00:21:39,437 [INFO] ApiDb:452 - User favorites MCUs=[STM32F103C8T6]
+2024-08-15 00:38:09,138 [INFO] WebApp:388 - JxBrowser engine has been closed 
