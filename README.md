@@ -62,3 +62,5 @@ This repository contains various STM32CubeIDE projects demonstrating different f
 
 **Description**: Use the timer's counter to read values from a rotary encoder and transmit these values to control a servo motor (SG90), adjusting its rotation angle.
 
+## Project 16: DC Motor Control Using Encoder
+**Description**: Utilize a timer to read values from a rotary encoder, allowing precise control of a DC motor’s direction (forward/reverse). Additionally, adjust the motor's speed by varying the PWM (Pulse Width Modulation) duty cycle.
