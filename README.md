@@ -36,7 +36,7 @@ This repository contains various STM32CubeIDE projects demonstrating different f
 
 ## Project 9: Timer
 
-**Description**: Implement a timer that counts the number of alternating black-and-white patterns detected by an infrared (IR) sensor. The count is incremented each time the sensor detects a transition, and the timer value is displayed on an OLED screen in real-time.
+**Description**: Use a timer to automatically increment a counter and display the value on the computer.
 
 ## Project 10: Timer External Input
 
