@@ -36,7 +36,7 @@ This repository contains various STM32CubeIDE projects demonstrating different f
 
 ## Project 9: Timer
 
-**Description**: Implement a timer that counts the number of alternating black-and-white patterns detected by an infrared (IR) sensor. The count is incremented each time the sensor detects a transition, and the timer value is displayed on an OLED screen in real-time.
+**Description**: Use a timer to automatically increment a counter and display the value on the computer.
 
 ## Project 10: Timer External Input
 
@@ -64,3 +64,6 @@ This repository contains various STM32CubeIDE projects demonstrating different f
 
 ## Project 16: DC Motor Control Using Encoder
 **Description**: Utilize a timer to read values from a rotary encoder, allowing precise control of a DC motor’s direction (forward/reverse). Additionally, adjust the motor's speed by varying the PWM (Pulse Width Modulation) duty cycle.
+
+## Project 17: ADC Voltage Reading and I2C Display on OLED
+**Description**: Utilize an ADC (Analog-to-Digital Converter) to read the voltage from pin PA5. The measured voltage will then be transmitted via I2C to an OLED display for visualization.
