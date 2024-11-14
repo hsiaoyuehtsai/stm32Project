@@ -1,0 +1,10 @@
+10:43:01 **** Incremental Build of configuration Debug for project proj16_tim_motor ****
+make -j12 all 
+arm-none-eabi-size  proj16_tim_motor.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9212	     12	   1716	  10940	   2abc	proj16_tim_motor.elf
+Finished building: default.size.stdout
+ 
+
+10:43:01 Build Finished. 0 errors, 0 warnings. (took 267ms)
+
